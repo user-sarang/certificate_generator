@@ -1,0 +1,5 @@
+.DS_Store
+.tmp
+/generated*
+.pyc
+users.txt
